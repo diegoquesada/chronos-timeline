@@ -1,0 +1,55 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "name": "Storming of the Bastille",
+            "date": "1879-07-14",
+            "link": "https://en.wikipedia.org/wiki/Storming_of_the_Bastille",
+            "tags": ["france", "french-revolution", "political"]
+        },
+        {
+            "id": 2,
+            "name": "Signing of the United States Constitution",
+            "date": "1787-09-17",
+            "link": "https://en.wikipedia.org/wiki/United_States_Constitution",
+            "tags": ["united-states", "political"]
+        },
+        {
+            "id": 3,
+            "name": "Birth of Wolfgang Amadeus Mozart",
+            "date": "1756-01-27",
+            "link": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+            "tags": ["united-states", "political"]
+        },
+        {
+            "id": 4,
+            "name": "Death of Wolfgang Amadeus Mozart",
+            "date": "1791-12-05",
+            "link": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+            "tags": ["united-states", "political"]
+        },
+        {
+            "id": 5,
+            "name": "Coup of 18 Brumaire",
+            "date": "1799-11-10",
+            "link": "https://en.wikipedia.org/wiki/Coup_of_18_Brumaire",
+            "tags": ["french-revolution", "france", "political"]
+        }
+    ],
+    "event-groups": [
+        {
+            "id": 1,
+            "name": "Wolfgang Amadeus Mozart",
+            "startDate": 3,
+            "endDate": 4,
+            "link": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart"
+        },
+        {
+            "id": 2,
+            "name": "French Revolution",
+            "startDate": 1,
+            "endDate": 5,
+            "link": "https://en.wikipedia.org/wiki/French_Revolution"
+        }
+    ]
+}
