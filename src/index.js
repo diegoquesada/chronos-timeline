@@ -6,6 +6,6 @@ import data from './testData.json';
 import App from './components/App';
 
 ReactDOM.render(
-   React.createElement('h2', null, 'Hello React'),        
+   <App eventsList={data.events} />,        
     document.getElementById('root')
 );
